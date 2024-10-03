@@ -1,0 +1,2 @@
+Resultados da questão 5:
+5) Eu acenderia uma das lâmpadas e deixaria por um tempo, até que esquentasse. Após isso eu desligaria o interruptor e ligaria outro. Em seguida visitaria cada sala. A sala com a lâmpada quente, foi o primeiro interruptor a ser ligado, a sala com a luz ligada foi o segundo e a sala com a luz desligada pertence ao interruptor que não foi ligado em nenhum momento.
